@@ -1,0 +1,153 @@
+[
+    {
+        "cnpj": "87525895690",
+        "nome": "Yakao fornecedor",
+        "telefone": "11930568740",
+        "email": "Yakao@hotmail.com",
+        "produtos": [
+            {
+                "codigo_id": 100012,
+                "nome": "Suco de Uva Aurora Tinto 1L",
+                "descricao": "Suco de Uva Aurora Tinto integral",
+                "preco_aquisicao": 17.0
+            },
+            {
+                "codigo_id": 100013,
+                "nome": "Coca cola",
+                "descricao": "Sem adi\u00e7\u00e3o de a\u00e7ucar",
+                "preco_aquisicao": 6.0
+            },
+            {
+                "codigo_id": 100014,
+                "nome": " Valparaiso Vitale Nebbiolo ",
+                "descricao": "Preserva toda pureza e integridade da uva",
+                "preco_aquisicao": 50.0
+            },
+            {
+                "codigo_id": 100024,
+                "nome": "suco laranja",
+                "descricao": "suco de laranja 1l",
+                "preco_aquisicao": 9.0
+            }
+        ]
+    },
+    {
+        "cnpj": "66906722000118",
+        "nome": "programmerpro",
+        "telefone": "55987456301",
+        "email": "programm@hotmail.com",
+        "produtos": [
+            {
+                "codigo_id": 100021,
+                "nome": "Guran\u00e1 zeroo",
+                "descricao": "sem a\u00e7ucar",
+                "preco_aquisicao": 10.0
+            },
+            {
+                "codigo_id": 100029,
+                "nome": "Suco",
+                "descricao": "500ml",
+                "preco_aquisicao": 7.0
+            },
+            {
+                "codigo_id": 100030,
+                "nome": "teste suco",
+                "descricao": "600 ml",
+                "preco_aquisicao": 5.0
+            }
+        ]
+    },
+    {
+        "cnpj": "012345678910",
+        "nome": "teste 2",
+        "telefone": "1193105988",
+        "email": "teste@gmail.com",
+        "Data de Cadastro": "2024-04-14 17:26:01",
+        "produtos": [
+            {
+                "codigo_id": 100015,
+                "nome": "Cocal zero",
+                "descricao": "Sem a\u00e7ucar",
+                "preco_aquisicao": 10.0
+            },
+            {
+                "codigo_id": 100018,
+                "nome": "Refrigerante Fanta Laranja 2l",
+                "descricao": " Feito com 5% de suco de laranja e super refrescante!",
+                "preco_aquisicao": 10
+            },
+            {
+                "codigo_id": 100019,
+                "nome": "Refrigerante Fanta Uva 2l",
+                "descricao": "Refrigerante de uva que todo mundo adora!! ",
+                "preco_aquisicao": 9.0
+            },
+            {
+                "codigo_id": 100020,
+                "nome": "guaran\u00e1",
+                "descricao": "600ml",
+                "preco_aquisicao": 5.0
+            },
+            {
+                "codigo_id": 100025,
+                "nome": "Leite",
+                "descricao": "integral 1l",
+                "preco_aquisicao": 5.0
+            },
+            {
+                "codigo_id": 100026,
+                "nome": "\u00c0gua",
+                "descricao": "Mineral",
+                "preco_aquisicao": 3.0
+            },
+            {
+                "codigo_id": 100027,
+                "nome": "\u00c1gua m",
+                "descricao": "Mineral",
+                "preco_aquisicao": 4.0
+            }
+        ]
+    },
+    {
+        "cnpj": "47200238000124",
+        "nome": "RPIII",
+        "telefone": "1140028922",
+        "email": "rp@gmail.com",
+        "Data de Cadastro": "2024-04-14 22:08:45",
+        "produtos": [
+            {
+                "codigo_id": 100022,
+                "nome": "Caderno",
+                "descricao": "Com 200 folhas",
+                "preco_aquisicao": 16.0
+            },
+            {
+                "codigo_id": 100023,
+                "nome": "lapis",
+                "descricao": "lapis de cor",
+                "preco_aquisicao": 5.0
+            },
+            {
+                "codigo_id": 100031,
+                "nome": "1 teste",
+                "descricao": "teste de es",
+                "preco_aquisicao": 5.0
+            }
+        ]
+    },
+    {
+        "cnpj": "68414182000180",
+        "nome": "Pizza Deusa",
+        "telefone": "3189205678",
+        "email": "pizza1@gmail.com",
+        "Data de Cadastro": "2024-04-15 15:41:23",
+        "produtos": [
+            {
+                "codigo_id": 100032,
+                "nome": "Pizza media",
+                "descricao": "8 fatias",
+                "preco_aquisicao": 55.9
+            }
+        ]
+    }
+]

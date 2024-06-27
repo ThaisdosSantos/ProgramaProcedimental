@@ -1,0 +1,119 @@
+[
+    {
+        "Nome": "thays",
+        "Sobrenome": "lemos",
+        "CPF": "98747021098",
+        "Endere\u00e7o": "rua vida",
+        "Telefone": "1123456789",
+        "E-mail": "thays@gmail.com",
+        "Data de Cadastro": "2024-04-08 14:49:13"
+    },
+    {
+        "Nome": "paula",
+        "Sobrenome": "silva",
+        "CPF": "47269957070",
+        "Endere\u00e7o": "rua justo",
+        "Telefone": "11931405988",
+        "E-mail": "paula@gmail.com",
+        "Data de Cadastro": "2024-04-08 15:10:42"
+    },
+    {
+        "Nome": "pedro",
+        "Sobrenome": "santos",
+        "CPF": "22710399083",
+        "Endere\u00e7o": "pedro@gmail.com",
+        "Telefone": "11235",
+        "E-mail": "teste@gmail.com",
+        "Data de Cadastro": "2024-04-08 15:36:09"
+    },
+    {
+        "Nome": "jhoe",
+        "Sobrenome": "menezes",
+        "CPF": " 08444647080",
+        "Endere\u00e7o": "rua nova",
+        "Telefone": "11931405988",
+        "E-mail": "jhoe@gmail.com",
+        "Data de Cadastro": "2024-03-24 18:40:54"
+    },
+    {
+        "Nome": "thays",
+        "Sobrenome": "santos",
+        "CPF": "53151332064",
+        "Endere\u00e7o": "rua justo",
+        "Telefone": "559876541235",
+        "E-mail": "thaisds2.aluno@unipampa.edu.br",
+        "Data de Cadastro": "2024-03-24 18:41:25"
+    },
+    {
+        "Nome": "paula",
+        "Sobrenome": "pereira",
+        "CPF": "11295150018",
+        "Endere\u00e7o": "rua teste2",
+        "Telefone": "9885",
+        "E-mail": "paula@gmail.com",
+        "Data de Cadastro": "2024-03-24 18:45:15"
+    },
+    {
+        "Nome": "Joao",
+        "Sobrenome": "santos",
+        "CPF": "97492133006",
+        "Endere\u00e7o": "rua teste3",
+        "Telefone": "559873254023",
+        "E-mail": "joao@gmail.com",
+        "Data de Cadastro": "2024-03-24 18:56:13"
+    },
+    {
+        "Nome": "Gabi",
+        "Sobrenome": "Rodrigues",
+        "CPF": "58076728010",
+        "Endere\u00e7o": "av.do estado",
+        "Telefone": "559635410235",
+        "E-mail": "gabi@gmail.com",
+        "Data de Cadastro": "2024-03-25 16:38:49"
+    },
+    {
+        "Nome": "Antonio",
+        "Sobrenome": "Oliveira (",
+        "CPF": "92599216001",
+        "Endere\u00e7o": "av.leste",
+        "Telefone": "55955578425",
+        "E-mail": "antonio@gmail.com",
+        "Data de Cadastro": "2024-03-25 16:38:49"
+    },
+    {
+        "Nome": "Francisca",
+        "Sobrenome": "Lima",
+        "CPF": "25065308004",
+        "Endere\u00e7o": "av. tiaraju 2400",
+        "Telefone": "5591023502458",
+        "E-mail": "francisca@gmail.com",
+        "Data de Cadastro": "2024-03-25 16:38:49"
+    },
+    {
+        "Nome": "Thalita",
+        "Sobrenome": "Santos",
+        "CPF": "86138920007",
+        "Endere\u00e7o": "rua justo 126",
+        "Telefone": "5598630124789",
+        "E-mail": "thalita@gmail.com",
+        "Data de Cadastro": "2024-03-28 16:24:25"
+    },
+    {
+        "Nome": "Jo\u00e3o",
+        "Sobrenome": "Silva",
+        "CPF": "54442272077",
+        "Endere\u00e7o": "rua justo 409",
+        "Telefone": "119875",
+        "E-mail": "joao@gmail.com",
+        "Data de Cadastro": "2024-04-08 17:38:31"
+    },
+    {
+        "Nome": "Lucas",
+        "Sobrenome": "Oliveira",
+        "CPF": "43704787078",
+        "Endere\u00e7o": "rua unipampa",
+        "Telefone": "55987642100",
+        "E-mail": "lucas24@gmail.com",
+        "Data de Cadastro": "2024-04-15 15:39:17"
+    }
+]
